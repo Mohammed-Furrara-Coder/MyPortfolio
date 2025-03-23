@@ -311,6 +311,9 @@ img{
 }
 .portfolio__link-name{
     color: var(--dark-color);
+    display: block;
+    text-align: center;
+    width: 100%;
 }
 
 /* ===== CONTACT =====*/
