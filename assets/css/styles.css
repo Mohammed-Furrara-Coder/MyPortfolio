@@ -385,21 +385,21 @@ img{
 /* For small devices */
 @media screen and (max-width: 320px) {
     .home__img{
-        width: 180px;
+        width: 280px;
         right: 2%;
     }
 }
 
 @media screen and (max-width: 768px) {
     .home__img {
-        width: 35%;
+        width: 45%;
         right: 3%;
     }
 }
 
 @media screen and (min-width: 769px) {
     .home__img {
-        width: 30%;
+        width: 40%;
         right: 5%;
     }
 }
@@ -448,7 +448,7 @@ img{
         row-gap: 0;
     }
     .home__img{
-        width: 400px;
+        width: 500px;
         right: 8%;
     }
 
@@ -504,7 +504,7 @@ img{
         height: 640px;
     }
     .home__img {
-        width: 380px;
+        width: 480px;
         right: 24%;
     }
 }
